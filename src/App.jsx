@@ -5,7 +5,7 @@ function App() {
     <>
       <h1>Navimind: Navigate with Complete Peace of Mind</h1>
       <h3 style={{ fontStyle: 'italic' }}>
-        by Médéric Peniguel, Camille Salaun, Xavier Rosengard, Julie Chen and Benjamin Rossignol
+        by Julie Chen, Médéric Peniguel, Xavier Rosengard, Benjamin Rossignol and Camille Salaun
       </h3>
       <p style={{ textAlign: 'justify', marginLeft: '10rem', marginRight: '10rem' }}>
         This is a dashboard for Navimind. It is a project for the Hackaton 2024.
